@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Vine decanter](README.md)
+* [Wine decanter](README.md)
 

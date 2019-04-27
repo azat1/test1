@@ -2,11 +2,11 @@
 description: Vine decanter API
 ---
 
-# Vine decanter
+# Wine decanter
 
 {% api-method method="get" host="https://decanterhost" path="/getinfo/:pass" %}
 {% api-method-summary %}
-Get vine info
+Get wine info
 {% endapi-method-summary %}
 
 {% api-method-description %}
