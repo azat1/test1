@@ -1,11 +1,8 @@
 # Table of contents
 
-* [Wine decanter](README.md)
-* [Untitled](untitled.md)
-
-## api
-
-* [iWine API](api/iwine-api.md)
+* [iWine](README.md)
+* [iWine Java SDK](untitled.md)
+* [iWine Objective-C SDK](iwine-objective-c-sdk.md)
 * [Untitled](untitled-1.md)
 * [Untitled](untitled-1-1.md)
 
